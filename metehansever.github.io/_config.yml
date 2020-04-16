@@ -22,11 +22,11 @@ title: “Dinlenmemek üzere yola çıkanlar asla yorulmazlar.”
        ― Mustafa Kemal Atatürk
 email: metehaansever@gmail.com
 description: Part time coder, Full time traveller.
-baseurl: "https://metehansever.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: metehaansever
 github_username:  metehaansever
-future: true 
+future: true
 # Build settings
 theme: minima
 plugins:
